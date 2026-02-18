@@ -1,0 +1,9 @@
+---
+title: "Lección 2 — Conceptos Básicos"
+date: 2024-01-22
+description: "Conceptos fundamentales del curso"
+---
+
+## Conceptos Básicos
+
+Contenido de la lección próximamente.
