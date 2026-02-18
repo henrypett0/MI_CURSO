@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mi Curso",
+    "section": "",
+    "text": "Bienvenido. Aquí encontrarás todas las lecciones del curso.\nVer todas las lecciones →"
+  },
+  {
+    "objectID": "lecciones/index.html",
+    "href": "lecciones/index.html",
+    "title": "Lecciones",
+    "section": "",
+    "text": "**`.gitignore`:**\n/.quarto/ /_site/ /_freeze/ pycache/ .ipynb_checkpoints/ *.pyc .Rhistory .RData\n\n\n\n\n\n\n\n\nTitle\nDate\nDescription\n\n\n\n\n\nNo matching items"
+  }
+]
