@@ -1,0 +1,7 @@
+---
+title: "Mi Curso"
+---
+
+Bienvenido. Aquí encontrarás todas las lecciones del curso.
+
+[Ver todas las lecciones →](lecciones/index.qmd)

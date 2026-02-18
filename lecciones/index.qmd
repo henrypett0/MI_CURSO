@@ -1,0 +1,22 @@
+---
+title: "Lecciones"
+listing:
+  contents: "*.qmd"
+  type: table
+  sort: "filename asc"
+  fields: [title, date, description]
+  filter-ui: false
+  sort-ui: false
+---
+```
+
+**`.gitignore`:**
+```
+/.quarto/
+/_site/
+/_freeze/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.Rhistory
+.RData
