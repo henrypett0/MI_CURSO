@@ -1,0 +1,14 @@
+---
+title: "Lección 3 — Práctica"
+date: 2024-01-29
+description: "Ejercicios prácticos"
+---
+
+## Ejercicios
+
+Esta es la tercera lección del curso.
+
+## Actividades
+
+- Actividad 1
+- Actividad 2
