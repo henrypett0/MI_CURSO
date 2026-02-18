@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "lecciones/03-practica.html",
+    "href": "lecciones/03-practica.html",
+    "title": "Lección 3 — Práctica",
+    "section": "",
+    "text": "Esta es la tercera lección del curso."
+  },
+  {
+    "objectID": "lecciones/03-practica.html#ejercicios",
+    "href": "lecciones/03-practica.html#ejercicios",
+    "title": "Lección 3 — Práctica",
+    "section": "",
+    "text": "Esta es la tercera lección del curso."
+  },
+  {
+    "objectID": "lecciones/03-practica.html#actividades",
+    "href": "lecciones/03-practica.html#actividades",
+    "title": "Lección 3 — Práctica",
+    "section": "2 Actividades",
+    "text": "2 Actividades\n\nActividad 1\nActividad 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mi Curso",
@@ -11,6 +32,6 @@
     "href": "lecciones/index.html",
     "title": "Lecciones",
     "section": "",
-    "text": "**`.gitignore`:**\n/.quarto/ /_site/ /_freeze/ pycache/ .ipynb_checkpoints/ *.pyc .Rhistory .RData\n\n\n\n\n\n\n\n\nTitle\nDate\nDescription\n\n\n\n\n\nNo matching items"
+    "text": "**`.gitignore`:**\n/.quarto/ /_site/ /_freeze/ pycache/ .ipynb_checkpoints/ *.pyc .Rhistory .RData\n\n\n\n\n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nDescription\n\n\n\n\n\n\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\n \n\n\n \n\n\n\n\n\n\n\n\n\nLección 3 — Práctica\n\n\nJan 29, 2024\n\n\nEjercicios prácticos\n\n\n\n\n\n\nNo matching items"
   }
 ]

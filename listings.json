@@ -1,6 +1,10 @@
 [
   {
     "listing": "/lecciones/index.html",
-    "items": []
+    "items": [
+      "/lecciones/01-introduccion.html",
+      "/lecciones/02-conceptos-basicos.html",
+      "/lecciones/03-practica.html"
+    ]
   }
 ]
